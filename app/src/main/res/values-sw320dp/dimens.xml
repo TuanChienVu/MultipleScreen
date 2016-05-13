@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">14.2dp</dimen>
+    <dimen name="activity_vertical_margin">14.2dp</dimen>
+
+    <!--Activity Main-->
+    <dimen name="linearLayout_PaddingTop">49.77dp</dimen>
+    <dimen name="linearLayout_PaddingLeft">21.33dp</dimen>
+    <dimen name="linearLayout_PaddingRight">21.33dp</dimen>
+
+    <dimen name="logo_LayoutHeight">64.00dp</dimen>
+    <dimen name="logo_marginBottom">21.33dp</dimen>
+
+    <dimen name="email_marginTop">7.11dp</dimen>
+    <dimen name="email_marginBottom">7.11dp</dimen>
+
+    <dimen name="pass_marginTop">7.11dp</dimen>
+    <dimen name="pass_marginBottom">7.11dp</dimen>
+
+    <dimen name="btnLogin_marginTop">21.33dp</dimen>
+    <dimen name="btnLogin_marginBottom">21.33dp</dimen>
+    <dimen name="btnLogin_padding">10.66dp</dimen>
+
+    <dimen name="link_TextSize">14.2dip</dimen>
+    <dimen name="link_marginBottom">21.33dp</dimen>
+    <!--Activity Main-->
+
+    <!--SignUp Activity-->
+
+    <dimen name="btnSignUp_marginTop">21.33dp</dimen>
+    <dimen name="btnSignUp_marginBottom">21.33dp</dimen>
+    <dimen name="btnSignUp_padding">10.66dp</dimen>
+
+    <dimen name="name_marginTop">7.11dp</dimen>
+    <dimen name="name_marginBottom">7.11dp</dimen>
+</resources>

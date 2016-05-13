@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MultipleScreenDemo</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="small_screen_size">Small Screen Size Layout</string>
+    <string name="normal_screen_size">Normal Screen Size Layout</string>
+    <string name="large_screen_size">Large Screen Size Layout</string>
+    <string name="xlarge_screen_size">Extra Large Screen Size Layout</string>
+    <string name="main_layout">Main Layout</string>
+    <string name="sw320">The smallest width of the screen is greater than or equal to 320dp</string>
+    <string name="sw480">The smallest width of the screen is greater than or equal to 480dp</string>
+    <string name="link_content">No account yet? Create one</string>
+    <string name="login">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="pass_hint">Password</string>
+    <string name="name_hint">Name</string>
+    <string name="already">Already a member? Login</string>
+    <string name="create_account">Create Account</string>
+
+</resources>
